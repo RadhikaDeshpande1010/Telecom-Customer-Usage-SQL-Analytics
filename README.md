@@ -9,7 +9,7 @@ A structured SQL practice project built on a simulated **Indian telecom dataset*
 ```
 telecom-sql-analytics/
 │
-├── telecom_sql_queries.sql     # Full script — DDL + DML + 15 analytics queries
+├── telecom_customer_usage_sql_analytics.sql     # Full script — DDL + DML + 15 analytics queries
 └── README.md
 ```
 
